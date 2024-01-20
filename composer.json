@@ -1,5 +1,5 @@
 {
-	"name": "kdyby/annotations",
+	"name": "ijvo/kdyby-annotations",
 	"type": "library",
 	"description": "Doctrine Annotations integration into Nette Framework",
 	"keywords": ["nette", "kdyby", "doctrine", "annotations"],
